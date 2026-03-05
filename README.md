@@ -67,7 +67,7 @@ A comprehensive task and documentation management application designed for softw
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd /Users/rishi/Documents/practice
+   cd taskhub
    ```
 
 2. **Install dependencies:**
